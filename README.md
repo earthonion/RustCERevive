@@ -1,4 +1,6 @@
-# rust ps4 server **WORK IN PROGRESS**
+# rust ps4 server
+
+ **WORK IN PROGRESS**
 
 custom server for rust console edition because they stopped supporting ps4 and want everyone to buy a ps5
 
