@@ -1,0 +1,35 @@
+# Build outputs
+bin/
+plugin/*/build/
+*.o
+*.elf
+*.oelf
+*.prx
+*.so
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
