@@ -1,4 +1,4 @@
-# rust ps4 server
+# rust ps4 server **WORK IN PROGRESS**
 
 custom server for rust console edition because they stopped supporting ps4 and want everyone to buy a ps5
 
@@ -6,7 +6,7 @@ custom server for rust console edition because they stopped supporting ps4 and w
 
 - python server that pretends to be the official rust server
 - ps4 plugin to bypass psn and redirect traffic
-- makes rust console edition playable again
+- the goal is to makes rust console edition playable again
 
 ## quick setup
 
