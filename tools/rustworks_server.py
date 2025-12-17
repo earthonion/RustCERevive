@@ -214,26 +214,6 @@ class RustworksHandler(BaseHTTPRequestHandler):
                         "port": 28915,
                         "ping_port": 28915
                         # No dtls field - server list entry doesn't need it
-                    },
-                    {
-                        "server_id": 2,
-                        "name": "G-Portal Server (DTLS Encrypted)",
-                        "description": "Original G-Portal server - requires DTLS",
-                        "owner_id": 12345,
-                        "type": "community",
-                        "next_save_wipe": "",
-                        "next_blueprint_wipe": "",
-                        "region_code": "us-east",
-                        "platform": "crossplay",
-                        "password": False,
-                        "worldsize": 1500,
-                        "seed": 1647828828,
-                        "max_players": 100,
-                        "active_players": 0,
-                        "game_time": "12:00",
-                        "up_since": "2025-12-09T00:00:00Z",
-                        "public_ip": "209.126.13.95",
-                        "ping_port": 28915
                     }
                 ],
                 "meta": {
