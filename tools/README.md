@@ -17,8 +17,6 @@ mitmproxy -s mitmproxy_redirect.py
 ### rustworks_server.py
 Early prototype server implementation - intercepts at Rustworks API level.
 
-**Note**: Superseded by `../server/rust_console_server.py` which implements the full DTLS protocol.
-
 ## Current Production Tools
 
 The active server implementation is in `../server/rust_console_server.py` which includes:
